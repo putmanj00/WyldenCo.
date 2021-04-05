@@ -1,0 +1,27 @@
+- name: Blog
+  link: /blog/
+- name: Nature
+  link: /nature/
+  dropdown:
+    - name: Regenerative Farming
+      link: /regerative-farming/
+    - name: Cannabis Cultivation
+      link: /cannabis-cultivation/
+- name: Art
+  link: /art/
+  dropdown:
+    - name: Art Projects
+      link: /art-projects
+    - name: Featured Artists
+      link: /featured-artists
+- name: Music
+  link: /music/
+  dropdown:
+    - name: Learn to Play
+      link: /learn-to-play
+    - name: Musical Guests
+      link: /musical-guests
+- name: Shop
+  link: /products/
+- name: About
+  link: /about/
