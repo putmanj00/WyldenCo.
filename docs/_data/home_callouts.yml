@@ -11,5 +11,5 @@ items:
     icon: fa-building
   - title: Featured individual of the month
     subtitle: Click here to learn more
-    icon: fa-peace
-    icon_brand: true 
+    # icon: fa-peace
+    image: true 
