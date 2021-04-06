@@ -4,7 +4,7 @@ subtitle: Blog, DIY, sustainable practices
 layout: page
 callouts: home_callouts
 show_sidebar: true
-hero_image: /WyldenCo/img/cover5.jpg
+hero_image: /img/cover5.jpg
 #hero_height: is-fullwidth
 ---
 
