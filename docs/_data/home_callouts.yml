@@ -1,7 +1,7 @@
 style: is-light
 items:
   - title: Featured Artist of the month
-    subtitle: This months artist making waves
+    subtitle: This months artist making waves 
     image: dali.png
     call_to_action_name: Click here to learn more
     call_to_action_link: /musical-guests.md
