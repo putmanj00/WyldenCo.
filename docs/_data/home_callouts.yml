@@ -1,12 +1,15 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fa-github
-    icon_brand: true
+  - title: Featured Artist of the month
+    subtitle: Click here to learn more
+    icon: fa-palette
+  - title: Featured Musician of the month
+    subtitle: Click here to learn more
+    icon: fa-headphones-alt
+  - title: Featured small business of the month
+    subtitle: Click here to learn more
+    icon: fa-building
+  - title: Featured individual of the month
+    subtitle: Click here to learn more
+    icon: fa-peace
+    icon_brand: true 

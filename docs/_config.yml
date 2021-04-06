@@ -33,7 +33,11 @@ github_username:  jekyll
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
   - github-pages
 
 paginate: 5
@@ -47,19 +51,21 @@ paginate_path: "/blog/page:num"
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
 
 defaults:
   -
