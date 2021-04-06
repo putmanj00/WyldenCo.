@@ -1,4 +1,4 @@
-- name: Blog
+- name: Growing with Jim
   link: /blog/
 - name: Nature
   link: /nature/
@@ -7,7 +7,7 @@
       link: /regerative-farming/
     - name: Cannabis Cultivation
       link: /cannabis-cultivation/
-- name: Art
+- name: Funked Up Art Creations
   link: /art/
   dropdown:
     - name: Art Projects
