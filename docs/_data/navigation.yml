@@ -13,7 +13,7 @@
     - name: Art Projects
       link: /art-projects
     - name: Featured Artists
-      link: /featured-artists
+      link: /featuredArtists/
 - name: Music
   link: /music/
   dropdown:
