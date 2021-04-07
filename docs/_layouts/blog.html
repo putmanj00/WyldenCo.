@@ -8,6 +8,7 @@ layout: default
     <div class="column is-12">
         {% include pagination.html %}
     </div>
+    {% if paginator.posts %}
     {% for post in paginator.posts %}
     <div class="column is-12">
         {% include post-card.html %}
@@ -19,4 +20,5 @@ layout: default
     <div class="column is-12">
         {% include subscribe.html %}
     </div>
+    {% endif %}
 </div>
