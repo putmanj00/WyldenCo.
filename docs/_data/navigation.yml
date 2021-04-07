@@ -1,20 +1,20 @@
-- name: Growing with Jim
+- name: Insight
   link: /blog/
-- name: Nature
-  link: /nature/
+- name: Knowledge
+  link: /knowledge/
   dropdown:
     - name: Regenerative Farming
       link: /regerative-farming/
     - name: Cannabis Cultivation
       link: /cannabis-cultivation/
-- name: Funked Up Art Creations
+- name: Wisdom
   link: /art/
   dropdown:
     - name: Art Projects
       link: /art-projects
     - name: Featured Artists
       link: /featuredArtists/
-- name: Music
+- name: Community
   link: /music/
   dropdown:
     - name: Learn to Play

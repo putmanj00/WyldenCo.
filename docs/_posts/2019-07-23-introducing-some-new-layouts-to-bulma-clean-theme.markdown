@@ -9,7 +9,7 @@ hero_height: is-large
 published: true
 tags: webdev showdev webdesign
 canonical_url: https://www.csrhymes.com/2019/07/23/introducing-some-new-layouts-to-bulma-clean-theme.html
-categories: Stuff
+categories: featured-artists
 ---
 
 
