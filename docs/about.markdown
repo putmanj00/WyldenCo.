@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Wilden was created with multiple goals in mind:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Help provide a platform to promote small businesses, local farmers, musicians, artists and all other people who are out there trying to make the world a better place
+- Raise awareness about regenerative farming practices and search for ways to improve global farming practices.
+- Spread knowledge and information through open source technology and DIY projects

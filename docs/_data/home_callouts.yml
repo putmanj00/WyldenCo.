@@ -4,19 +4,19 @@ items:
     subtitle: This months artist making waves 
     image: dali.png
     call_to_action_name: Click here to learn more
-    call_to_action_link: /musical-guests.md
+    call_to_action_link: /featured-artists
   - title: Featured Musician of the month
     subtitle: This months musician bringing the tunes
     image: RUSH.png
     call_to_action_name: Click here to learn more
-    call_to_action_link: /musical-guests.md
+    call_to_action_link: /featured-musicians
   - title: Featured small business of the month
     subtitle: Local business helping out the community
     image: nathan.png
     call_to_action_name: Click here to learn more
-    call_to_action_link: /musical-guests.md
+    call_to_action_link: /featured-businesses
   - title: Featured individual of the month
     subtitle: People helping people 
     image: hunter.png
     call_to_action_name: Click here to learn more
-    call_to_action_link: /musical-guests.md
+    call_to_action_link: /featured-people

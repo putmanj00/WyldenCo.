@@ -1,0 +1,13 @@
+intro: |-
+  Featured Business
+items:
+  - title: Nathan Atom Print Shop
+    subtitle: csrhymes.com
+    description: |-
+      All RUSH all the time
+    image: /img/nathan.png
+    image_ratio: is-16by9
+    link: https://www.csrhymes.com
+    link_text: View the CS Rhymes Website
+    tags: Bulma,CSS,Jekyll
+    github: chrisrhymes/chrisrhymes.github.io

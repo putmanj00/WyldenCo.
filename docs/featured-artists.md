@@ -2,16 +2,9 @@
 title: Featured Artists
 subtitle: Artists from near and far
 layout: page
+showcase: showcase_artist_1
 show_sidebar: false
+menubar: insight_menu
 ---
 
-This is some junk and stuff
-
-To hide the sidebar, set the show_sidebar to false in the page's frontmatter
-
-```yml
-title: Page without sidebar
-subtitle: Demo page without the sidebar
-layout: page
-show_sidebar: false
-```
+Featured Artists

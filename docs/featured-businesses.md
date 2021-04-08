@@ -1,8 +1,10 @@
 ---
-title: Featured Business Owners
+title: Featured Businesses
 subtitle: Businesses helping inspire and build up communities
 layout: page
+showcase: showcase_business_1
 show_sidebar: false
+menubar: insight_menu
 ---
 
 This is some junk and stuff

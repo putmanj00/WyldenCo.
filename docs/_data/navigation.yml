@@ -15,16 +15,18 @@
     - name: DIY Projects
       link: /diy-projects
 - name: Insight
-  link: /blog/
+  link: /insight/
   dropdown:
     - name: Featured Musicians
-      link: /fetured-musicians
+      link: /featured-musicians
     - name: Featured Artists
       link: /featured-artists
-- name: Community
-  link: /community/
-  dropdown:
-    - name: 
+    - name: Featured People
+      link: /featured-people
+    - name: Featured Businesses
+      link: /featured-businesses
+    - name: Community
+      link: /community
 - name: Shop
   link: /products
 - name: About
