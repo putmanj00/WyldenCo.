@@ -1,0 +1,13 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Description
+    link: /page-4/
+    icon: fa-smile-wink
+  - name: Acronyms
+    link: /page-1/
+    icon: fa-square
+  - name: Links
+    link: /page-2/
+    icon: fa-ellipsis-v

@@ -22,3 +22,7 @@
       link:
     - name: Helpful links
       link: 
+- label: Sourcing Inputs Locally
+  items:
+    - name: Sourcing Inputs Locally
+      link: /sourcing-inputs-locally
