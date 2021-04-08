@@ -1,27 +1,30 @@
-- name: Insight
-  link: /blog/
 - name: Knowledge
   link: /knowledge/
   dropdown:
-    - name: Regenerative Farming
-      link: /regerative-farming/
+    - name: Sustainable Practices
+      link: /sustainable-practices
     - name: Cannabis Cultivation
-      link: /cannabis-cultivation/
+      link: /cannabis-cultivation
 - name: Wisdom
   link: /art/
   dropdown:
     - name: Art Projects
       link: /art-projects
+    - name: DIY Projects
+      link: /diy-projects
+- name: Insight
+  link: /blog/
+  dropdown:
+    - name: Musical Guests
+      link: /musical-guests
     - name: Featured Artists
-      link: /featuredArtists/
+      link: /featuredArtists
 - name: Community
   link: /music/
   dropdown:
     - name: Learn to Play
       link: /learn-to-play
-    - name: Musical Guests
-      link: /musical-guests
 - name: Shop
-  link: /products/
+  link: /products
 - name: About
-  link: /about/
+  link: /about

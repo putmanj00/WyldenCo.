@@ -1,17 +1,9 @@
 ---
-title: Art Projects
-subtitle: Art Projects and stuff
+title: Funked Up Art Creations
+subtitle: 50% funky, 50% fresh
 layout: page
 show_sidebar: false
+menubar: wisdom_art_projects_menu
 ---
 
-This is some junk and stuff
-
-To hide the sidebar, set the show_sidebar to false in the page's frontmatter
-
-```yml
-title: Page without sidebar
-subtitle: Demo page without the sidebar
-layout: page
-show_sidebar: false
-```
+Art and stuff, but with a smidge of funk

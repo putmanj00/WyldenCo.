@@ -1,0 +1,34 @@
+- label: Planning phase
+  items:
+    - name: Growing Location (Indoor vs Outdoor)
+      link: /
+    - name: Equipment
+      link: /#
+    - name: Genetics
+      link:
+    - name: Growing Medium
+      link:
+    - name: Nutrients
+      link:
+    - name: Training
+      link:
+    - name: Light Cycle
+      link:
+- label: Phase I - Germination and seedlings
+  items:
+    - name: Germinating seeds
+      link:
+    - name: Seedling stage
+      link: 
+- label: Phase II - Vegetative 
+  items:
+    - name: Transplanting
+      link:
+    - name: Defoliation
+      link: 
+- label: Phase III - Flower
+  items:
+    - name: Flipping to flower
+      link:
+    - name: Finshing touches
+      link: 
