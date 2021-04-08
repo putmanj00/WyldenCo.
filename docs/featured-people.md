@@ -1,6 +1,6 @@
 ---
-title: Musical Guests
-subtitle: Musical guests and stuff
+title: Featured People
+subtitle: People helping make a positive difference in the world
 layout: page
 show_sidebar: false
 ---

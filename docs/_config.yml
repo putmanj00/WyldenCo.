@@ -56,4 +56,4 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false

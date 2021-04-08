@@ -5,8 +5,10 @@
       link: /sustainable-practices
     - name: Cannabis Cultivation
       link: /cannabis-cultivation
+    - name: Sourcing Inputs Locally
+      link: /sourcing-inputs-locally
 - name: Wisdom
-  link: /art/
+  link: /wisdom/
   dropdown:
     - name: Art Projects
       link: /art-projects
@@ -15,15 +17,14 @@
 - name: Insight
   link: /blog/
   dropdown:
-    - name: Musical Guests
-      link: /musical-guests
+    - name: Featured Musicians
+      link: /fetured-musicians
     - name: Featured Artists
-      link: /featuredArtists
+      link: /featured-artists
 - name: Community
-  link: /music/
+  link: /community/
   dropdown:
-    - name: Learn to Play
-      link: /learn-to-play
+    - name: 
 - name: Shop
   link: /products
 - name: About

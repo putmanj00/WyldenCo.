@@ -1,6 +1,6 @@
 ---
-title: Featured Artists
-subtitle: Artists from near and far
+title: Musical Guests
+subtitle: Musicians shaping the sounds of tomorrow
 layout: page
 show_sidebar: false
 ---

@@ -1,0 +1,10 @@
+- label: Insight
+  items:
+    - name: Featured Musicians
+      link: /musical-guests
+    - name: Featured Artists
+      link: /featured-artists
+    - name: Featured People
+      link: /featured-people
+    - name: Featured Buisness Owners
+      link: /featured-business-owners

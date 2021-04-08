@@ -1,6 +1,6 @@
 ---
-title: Featured Artists
-subtitle: Artists from near and far
+title: Featured Business Owners
+subtitle: Businesses helping inspire and build up communities
 layout: page
 show_sidebar: false
 ---

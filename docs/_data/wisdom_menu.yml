@@ -1,0 +1,6 @@
+- label: Wisdom
+  items:
+    - name: Art Projects
+      link: /art-projects
+    - name: DIY Projects
+      link: /diy-projects
